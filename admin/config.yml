@@ -1,6 +1,5 @@
 backend:
   name: git-gateway
-  repo: peter20031212/peter20031212.github.io
   branch: main
 
 media_folder: "assets/images"
